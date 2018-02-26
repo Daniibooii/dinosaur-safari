@@ -1,20 +1,21 @@
 # dinosaur-safari
 2/26/2018:<br>
-This repo is the unpacked files from a legally-downloaded copy of the PC game Dinosaur Safari.<br>
-I played a great of this back in the day and wanted to get it running on my laptop.<br>
-I have had no luck with that so far, but hopefully compatibility mode will provide a solution.<br>
-This repo has been created in ordet to facilitate the study/use of the game's code, potentially for a group project.<br>
-The project envisioned would be more of a "Dinosaur Staycation" and involve use of APIs/dinosaur databases.<br>
+This repo contains the unpacked files from a legally-downloaded copy of the PC game Dinosaur Safari.<br>
+I played a great deal of this back in the day and wanted to get it running on my laptop.<br>
+I have had no luck so far, but hopefully fooling around with compatibility mode will provide a solution.<br>
+This repo has been created in order to facilitate the study/use of the game's code, potentially for a group project.<br>
+The project envisioned will be more of a "Dinosaur Staycation" and involve use of APIs/dinosaur databases.<br>
+If that doesn't pan out, I'd still like to dig around in the code.<br>
 <br>
-The original notes associated with these files have been moved from README.txt to below the second dinosaur safair heading.<br>
+The original notes associated with these files have been moved from README.txt to below the second dinosaur safari heading.<br>
 
 # Work Done
-Done yet; this is a work-in-progress.<br>
+None yet; this is a work-in-progress.<br>
 
 # dinosaur-safari
 
 The game files in this folder are included to make it easier
-            for young children to play Dinosaur Safari.
+for young children to play Dinosaur Safari.
 
             The files allow you to select the level of difficulty of the
             game.  Rookie is the normal (hardest) level.  Junior,
