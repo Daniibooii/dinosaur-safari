@@ -1,5 +1,6 @@
 # dinosaur-safari
-2/26/2018:<br>
+
+# Project Description
 This repo contains the unpacked files from a legally-downloaded copy of the PC game Dinosaur Safari.<br>
 I played a great deal of this back in the day and wanted to get it running on my laptop.<br>
 I have had no luck so far, but hopefully fooling around with compatibility mode will provide a solution.<br>
@@ -9,7 +10,10 @@ If that doesn't pan out, I'd still like to dig around in the code.<br>
 <br>
 The original notes associated with these files have been moved from README.txt to below the second dinosaur safari heading.<br>
 
-# Work Done
+# Notes
+<br>
+
+# Remaining Work
 None yet; this is a work-in-progress.<br>
 
 # dinosaur-safari
