@@ -1,12 +1,15 @@
 # dinosaur-safari
 
 # Project Description
-This repo contains the unpacked files from a legally-downloaded copy of the PC game Dinosaur Safari.<br>
-I played a great deal of this back in the day and wanted to get it running on my laptop.<br>
-I have had no luck so far, but hopefully fooling around with compatibility mode will provide a solution.<br>
-This repo has been created in order to facilitate the study/use of the game's code, potentially for a group project.<br>
+This repo contains the unpacked files from a legally-downloaded copy of the PC game Dinosaur Safari;<br>
+the game is available for download at: http://www.abandonia.com/en/search_abandonia/dinosaur+safari<br>
+
+I played a great deal of this game back in the day and wanted to get it running on my laptop.<br>
+Compatibility mode didn't cut it, so I'm using DOSBox to play.<br>
+
+This repo has been created in order to facilitate the study/use of the game's code, potentially for a collaborative project.<br>
 The project envisioned will be more of a "Dinosaur Staycation" and involve use of APIs/dinosaur databases.<br>
-If that doesn't pan out, I'd still like to dig around in the code.<br>
+If that doesn't pan out, I'd still like to dig around in the code to get an idea of how PC games operate.<br>
 <br>
 The original notes associated with these files have been moved from README.txt to below the second dinosaur safari heading.<br>
 
@@ -14,9 +17,9 @@ The original notes associated with these files have been moved from README.txt t
 <br>
 
 # Remaining Work
-None yet; this is a work-in-progress.<br>
+All of it; this is a work-in-progress.<br>
 
-# dinosaur-safari
+## dinosaur-safari
 
 The game files in this folder are included to make it easier
 for young children to play Dinosaur Safari.
